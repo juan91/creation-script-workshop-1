@@ -3,7 +3,7 @@
 ## Modo de entrega
 - Crear fork, subir el trabajo al fork y hacer PR desde el fork hacia el repositorio original.
 - Montar el enlace del fork a la tarea de Q10.
-- Fecha máxima: 23 de abril de 2025.
+- Fecha máxima: 23 de julio de 2025.
   
 **NOTA:** De no cumplir estos dos requisitos, no podrá ser revisada la actividad.
 ## Descripción
@@ -15,7 +15,7 @@ El modelo implementa herencia mediante tablas de especialización para:
 - Transacciones (Depósito, Retiro y Transferencia)
 
 **Autor:** Jacobo Garcés  
-**Fecha:** 2025-04-10
+**Fecha:** 2025-07-16
 
 ## Contenido del Script
 
@@ -32,7 +32,7 @@ El modelo implementa herencia mediante tablas de especialización para:
  * - Transacciones (Depósito, Retiro y Transferencia)
  *
  * Autor: Jacobo Garcés
- * Fecha: 2023
+ * Fecha: 2025
  */
 
 -- ============================================================================
